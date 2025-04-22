@@ -27,4 +27,32 @@ https://colab.research.google.com/drive/1WPUHZKBIY6_2P7RizDM85wvDTif7lphS?usp=sh
 Project 9: Build a Python Website in 15 Minutes With Streamlit
 https://colab.research.google.com/drive/1o8wU6cfpvzU4Lv5-1KCbZYJfGhgc9pdZ?usp=sharing
 
+Itermediate Projects
+
+QR code encoder / decoder Project
+https://colab.research.google.com/drive/1EVB0YATU0zJl91Z45NngAkOh5rdyxDSN?usp=sharing
+
+Tic-Tac-Toe Project
+https://colab.research.google.com/drive/1yDyAmQUtOFR6Hgd_XsjnvT9FZgO_qlwy?usp=sharing
+
+Binary Search Project
+https://colab.research.google.com/drive/1T-xV3N4xruV3ugUNKxei0pj1poHl2kUa?usp=sharing
+
+Bulk File Re-namer Project
+https://colab.research.google.com/drive/1AX7pQKcetxwGrG7TQarmGOZB5yYeA4WQ?usp=sharing
+
+Weather Program Project
+https://colab.research.google.com/drive/1rJ4sIcCFPaxKcf0ENaWnEv0rv97E19S-?usp=sharing
+
+
+
+
+
+
+
+
+
+
+
+
  
